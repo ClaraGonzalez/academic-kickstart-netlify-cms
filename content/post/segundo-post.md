@@ -2,7 +2,7 @@
 title: Segundo Post
 date: '2018-05-14T10:48:00+02:00'
 lastmod: '2018-05-14T10:40:00+02:00'
-draft: true
+draft: false
 tags:
   - academic
 summary: El segundo post
