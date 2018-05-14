@@ -7,7 +7,9 @@ tags:
   - academic
 summary: El segundo post
 header:
-  caption: Hola caracola
+  caption: ''
   image: /img/coffee-cup-concept-business-doodle-with-coffe-vector-18927398.jpg
 ---
+**¡Hola caracola!**
+
 Todo por un buen café
