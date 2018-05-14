@@ -1,7 +1,7 @@
 ---
 title: Segundo Post
-date: '2018-05-14T10:56:00+02:00'
-lastmod: '2018-05-14T10:56:00+02:00'
+date: '2018-05-13T10:56:00+02:00'
+lastmod: '2018-05-13T10:56:00+02:00'
 draft: false
 tags:
   - academic
