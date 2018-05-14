@@ -25,7 +25,7 @@ smartypants = true
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 avatar = "/img/depositphotos_179160872-stock-illustration-zendoodle-design-taurus-zodiac-sign.jpg"
-color_theme = "ocean"
+color_theme = "forest"
 comment_count = true
 custom_css = []
 custom_js = []
